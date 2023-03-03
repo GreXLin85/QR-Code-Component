@@ -18,6 +18,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-## How to live access to project
+## How to access to live project
 
 [You can click to me](https://qr-code-component-two-chi.vercel.app/)
